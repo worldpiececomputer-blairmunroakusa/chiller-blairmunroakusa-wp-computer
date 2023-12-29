@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://glittering-flan-efaf2f.netlify.app"
+baseurl = "https://glittering-flan-efaf2f.netlify.app/"
 languageCode = "en-us"
 title = "chill"
 theme = "hugrid"
