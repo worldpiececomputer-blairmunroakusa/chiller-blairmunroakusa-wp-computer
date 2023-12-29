@@ -1,0 +1,33 @@
+# Site settings
+baseurl = "https://chiller.blairmunroakusa.wp.computer/"
+languageCode = "en-us"
+title = "chill"
+theme = "hugrid"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+    # Meta
+    title = "Hi, welcome to my chiller webapp. This is just for fun. In the event you need to destress, I recommend choosing among the colored tiles below for peaceful ambient noise. Intensity scales roughly in proportion to the number of tabs open. Mix ups make for interesting destress combo attacks:"
+    subtitle = ""
+    author = "Blair Munro"
+    description = "Help Blair invent a time machine."
+    keywords = ""
+
+    # Body background color
+    bodybgcolor = "#ddd"
+
+    # Preview container button text
+    buttontext = "chillout"
+
+    # Footer text
+footertext = "Copyright &copy; Blair Munro 2021 [**blairmunroakusa, LLC**](https://blairmunroakusa.wp.computer/), managed by [**World Peace Labs, inc**](https://worldpeacelabs.wp.computer/) :: generated using HUGO :: theme credit == Hugrid, [**Codrops**](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) & Developed by [**Gethugothemes**](https://gethugothemes.com) and [**aerohub**](https://github.com/aerohub/)"
+    #footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+
+    # add extra-css
+    # custom_css = ['css/extra1.css', 'css/extra2.css']
