@@ -48,3 +48,18 @@ title = "swamp"
 image = "images/full/brown.png"
 thumb = "images/thumbs/brown.png"
 url = "https://www.youtube.com/watch?v=h6dN65sFQBc"
+[[items]]
+title = "hive"
+image = "images/full/grey.png"
+thumb = "images/thumbs/grey.png"
+url = "https://www.youtube.com/watch?v=Z5tLGn-QNpg"
+[[items]]
+title = "kazoo"
+image = "images/full/kazoo.png"
+thumb = "images/thumbs/kazoo.png"
+url = "https://www.youtube.com/watch?v=NnmwuiptvEU"
+[[items]]
+title = "military march carnival screamer"
+image = "images/full/screamer.png"
+thumb = "images/thumbs/screamer.png"
+url = "https://www.youtube.com/watch?v=-iOzHoxsor4"
