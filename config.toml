@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://blairmunroakusa-chiller.netlify.app/"
+baseurl = "https://chiller.blairmunroakusa.wp.computer/"
 languageCode = "en-us"
 title = "chill"
 theme = "hugrid"
